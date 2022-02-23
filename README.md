@@ -25,9 +25,9 @@ mkdir True-Value-Access
 
 cd True-Value-Access
 
-python3.6 -m venv my_env
+python3.6 -m venv tenv
 
-source myenv/bin/activate
+source tenv/bin/activate
 
 # 2. Set-Up Django
 
