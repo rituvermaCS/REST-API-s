@@ -1,4 +1,4 @@
-## True-Value-Access-Task
+## REST API's using Django REST framework
 
 # Main points for creating a REST API in Django.
 
@@ -21,9 +21,9 @@ sudo apt install python3-pip
 
 sudo apt install python3-venv
 
-mkdir True-Value-Access
+mkdir REST-API
 
-cd True-Value-Access
+cd REST-API
 
 python3.6 -m venv tenv
 
