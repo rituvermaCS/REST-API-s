@@ -29,7 +29,7 @@ python3.6 -m venv tenv
 
 source tenv/bin/activate
 
-# 2. Set-Up Django
+# 2. Set-Up Django 
 
 pip install django
 
